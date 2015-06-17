@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## First function (makeCacheMatrix)is to set and hold a square matrix. Second function 
 ## (cacheSolve) will find the inverse of the matrix stored in the first function.
 
 ## makeCacheMatrix: Function containing 4 sub-functions for setting/ storing a matrix.
